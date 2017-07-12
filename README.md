@@ -1,2 +1,2 @@
 # Restourant
-Site layout for the restaurant. 
+Site layout for the restourant. 
